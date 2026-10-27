@@ -1,6 +1,6 @@
 # Joint Independence Testing for Latent Position Random Graphs
 
-This repository contains the code used to reproduce the numerical experiments and real-data analysis presented in our paper, *Joint Independence Testing for Latent Position Random Graphs*.
+This repository contains the code used to reproduce the numerical experiments and real-data analysis presented in our paper, *Joint Independence Testing for Latent Position Random Graphs*, available on [arXiv](https://arxiv.org/abs/2610.34544).
 
 ## Code Organization
 
